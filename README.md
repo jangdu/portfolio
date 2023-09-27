@@ -1,3 +1,12 @@
+# 장두혁 (백엔드 개발자)
+
+### **Contact**
+**Email :** jjd0324@gmail.com
+**Phone :** 010-5623-5318
+**Portfolio :** https://blog.jangdu.site/portfolio
+**Github :** https://github.com/jangdu
+**Blog :** https://blog.jangdu.site (개발 진행중)
+---
 ## Projects
 
 ### 1. JangduLog 개인 블로그 프로젝트 ( 2023.03 ~ )
@@ -15,6 +24,8 @@
 - **firebase -> nest.js :** React를 활용한 프론트엔드 구현, firebase를 통한 간단한 DB구축 ( 2023.03 ) 이후 데이터 관리 및 기능 추가 시 불편 **->** **nest.js, mysql(typeorm)로 백엔드 구현 ( 2023.09 ~ )**
 - CloudFront, S3, EC2, RDS를 사용한 배포 **->** 반복적인 빌드, 배포의 불편 **->** CodeDeploy를 사용해 **CI/CD** **배포 자동화를 통해 효율적인 개발 환경 구성** (https://blog.jangdu.site/posts/7)
 - **Redis :** 가장 조회가 많이 일어나는 첫 페이지를 캐싱해 응답속도 개선 **( 240ms -> 92ms )**
+
+---
 
 ### 2. Drinkit   팀프로젝트  2023.08 ~ 2023.09 (5주)
 
