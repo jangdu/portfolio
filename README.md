@@ -9,32 +9,11 @@
 - **Blog :** https://blog.jangdu.site (개발 진행중)
 ---
 # Projects
-## 1. JangduLog 개인 블로그 프로젝트 ( 2023.03 ~ )
 
-개발 잘하시는 분들이 운영하시는 개인 블로그들에 대한 동경으로 시작한 개인 블로그 프로젝트
-
-- url : https://blog.jangdu.site (진행중)
-- Skill : Nest.js, React.js, MySQL, S3, Lambda, CloudFront, CodeDeploy, GithubAction
-- github:
-  - backend : https://github.com/jangdu/jangduLog_backend
-  - frontend : https://github.com/jangdu/jangduLog_frontend
-
-#### 주요 구현 내용
-Swagger : frontend와의 소통을 위해서 dto, nest-swagger를 사용한 문서 작성 자동화
-React를 활용한 프론트엔드 구현
-- CloudFront, S3, EC2, RDS를 사용한 배포
-  - 반복적인 빌드, 배포의 불편을 느껴 CodeDeploy를 사용한 배포 자동화를 통해 효율적인 개발 환경 구성
-  - 빌드하는 과정 중 문제 발생 시, 배포를 하지않고 중단하도록 구현, 추후 테스트코드 추가 예정
-- Nest.js, MySQL을 사용한 백엔드 구현
-  - Firebase를 통한 간단한 DB구축 후, Nest.js로 마이그레이션 백엔드 구현 진행중(2023.09 ~) 태그 기능을 구현하며 데이터 무결성 및 트랜잭션 관리와 확장성에 용이한 RDBMS의 필요성을 느껴서 MySQL선택
-
----
-
-## 2. Drinkit   팀프로젝트  2023.08 ~ 2023.09 (5주)
+## Drinkit   팀프로젝트  2023.08 ~ 2023.09 (5주)
 
 혼술하는 사람들을 위한 주류 쇼핑몰 팀 프로젝트 ( 4인 )
 
-- URL : https://drinkit.site/
 - Github : https://github.com/jangdu/Develop-Drinkit
 
 #### 주요 기술
